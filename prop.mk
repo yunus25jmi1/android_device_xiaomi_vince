@@ -269,6 +269,7 @@ persist.vendor.radio.mt_sms_ack=30 \
 ro.telephony.default_network=22,22 \
 ro.telephony.call_ring.multiple=false \
 ro.telephony.use_old_mnc_mcc_format=true \
+ro.telephony.block_binder_thread_on_incoming_calls=false \
 ril.subscription.types=NV,RUIM \
 vendor.service.qti.ims.enabled=1
 
